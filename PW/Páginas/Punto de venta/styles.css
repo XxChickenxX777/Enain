@@ -8,6 +8,15 @@ body {
     align-items: center;
 }
 
+nav{
+    margin-bottom: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
 h1 {
     color: #444;
 }
